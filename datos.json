@@ -284,7 +284,7 @@
         "autor": "Elísabet Benavent",
         "genero": "romance",
         "sinopsis": "¿Y si tuvieras la oportunidad de cambiar lo que ya has vivido? Elísabet Benavent, la autora de Un cuento perfecto y de la «Saga Valeria», regresa con su novela más diferente y original: un romance fragmentado con el tiempo como aliado y el amor como hoja de ruta. Miranda trabaja como subdirectora en una revista de moda. Miranda es feliz junto a Tristán. Por eso no entiende que la esté dejando. Ojalá pudiera dar marcha atrás y volver al momento en que se conocieron... Pero ¿y si realmente tuviera la oportunidad de cambiar su historia?",
-        "popular": "si"
+        "popular": "no"
     },
 
     {
@@ -293,7 +293,7 @@
         "autor": "Noelia Lorenzo Pino",
         "genero": "misterio",
         "sinopsis": "Un mensaje misterioso enviado a la Ertzaintza y una desaparición repentina en la ciudad fronteriza de Irún reúnen a la oficial Lur de las Heras y a la agente Maddi Blasco en un enigmático e inquietante caso. La desaparecida es Sua, una chica del entorno cercano de Lur, pero a la que hace años que no ve. A traves de la reconstrucción de los días previos a su desaparición, Lur y Maddi se ven envueltas en el mundo oculto de la joven, una telaraña de relaciones tóxicas, miedo, depresión y adicciones. Las dos mujeres no solo deberán descubrir que ha pasado con Sua, sino tratar de que este descenso al lado más oscuro del ser humano no afecte a sus vidas personales.",
-        "popular": "si"
+        "popular": "no"
     },
 
     {
@@ -311,6 +311,33 @@
         "autor": "Noelia Lorenzo Pino",
         "genero": "misterio",
         "sinopsis": "La agente Eider Chassereau y el suboficial Jon Ander Macua investigan, tras la aparición de su cadáver, el asesinato de la joven Lorea Gálvez. La similitud del caso con un crimen, aún sin resolver, ocurrido catorce años antes en plenas fiestas de Hondarribia, hará que este cobre actualidad y se reabra gracias a los esfuerzos e insistencia de la patrullera Lía Yoldi, amiga íntima de la víctima y aún obsesionada con su muerte. La reapertura del caso desenterrará emociones soterradas en la agente al rememorar, con ayuda del diario de su amiga, sus últimos días de existencia.",
+        "popular": "no"
+    },
+
+    {
+        "portada": "https://imagessl6.casadellibro.com/a/l/s7/16/9788412839616.webp",
+        "titulo": "La casa de los cien escalones",
+        "autor": "David Jasso",
+        "genero": "terror",
+        "sinopsis": "David Jasso, el maestro del terror psicológico, regresa con fuerza con La casa de los cien escalones, su novela de terror más intensa Todo comienza con un escritor venido a menos. Cuando Daniel empieza a intercambiar emails con otra escritora aficionada, esta le habla de la existencia de una vieja y misteriosa mansión y de los problemas personales que la tienen al límite. Interesado por averiguar hasta dónde es capaz de llegar, Daniel la convence para que se quite la vida. A partir de ese momento, el escritor se verá acosado por la siniestra figura de una mujer contrahecha y fantasmal que lo seguirá adonde vaya. Mientras, una familia que pasa unos días de vacaciones en una casa rural también comienza a recibir las visitas de esta aterradora sombra de mujer, que vaga por los rincones de la vivienda. Pero ella no es la única que hará lo imposible por convertir lo que había de ser una escapada idílica en un auténtico infierno… El escritor y la familia unirán sus fuerzas para intentar librarse de la presencia de la mujer, pero antes deberán comprender qué ha motivado su aparición y los siniestros acontecimientos de los últimos días. Muy a su pesar, para ello tendrán que encontrar la casa de los cien escalones y adentrarse en ella para poner fin al terror.",
+        "popular": "no"
+    },
+
+    {
+        "portada": "https://imagessl6.casadellibro.com/a/l/s7/16/9788412839616.webp",
+        "titulo": "Si te gusta la oscuridad",
+        "autor": "Stephen King",
+        "genero": "terror",
+        "sinopsis": "'¿Te gusta la oscuridad? Perfecto. A mí tambien' es cómo inicia Stephen King el epílogo de este nuevo y magnífico volumen de doce relatos que se adentran en la parte más sombría de la vida. King lleva más de medio siglo siendo un maestro literario, y estas historias sobre el destino, la mortalidad, la suerte y los múltiples pliegos de la realidad son tan ricas y absorbentes como sus novelas. El autor escribe 'para sentir la emoción de dejar atrás la rutina', y en Si te gusta la oscuridad los lectores sentirán, una y otra vez, esa misma emoción. 'Dos cabrones con talento' nos revelará el secreto de cómo estos dos caballeros adquirieron sus habilidades. En 'El mal sueño de Danny Coughlin', una explosión psíquica inesperada pone patas arriba la vida de docenas de personas, incluido Danny, con catastróficos resultados. 'Serpientes de cascabel', secuela de la novela Cujo, nos presenta a un viudo que viaja a Florida buscando descanso y, en su lugar, se topa con una inesperada herencia... con más de una atadura. En 'Los soñadores', un taciturno veterano de la guerra de Vietnam",
+        "popular": "si"
+    },
+
+    {
+        "portada": "https://imagessl9.casadellibro.com/a/l/s7/69/9788401032769.webp",
+        "titulo": "Si te gusta la oscuridad",
+        "autor": "Stephen King",
+        "genero": "terror",
+        "sinopsis": "'¿Te gusta la oscuridad? Perfecto. A mí tambien' es cómo inicia Stephen King el epílogo de este nuevo y magnífico volumen de doce relatos que se adentran en la parte más sombría de la vida. King lleva más de medio siglo siendo un maestro literario, y estas historias sobre el destino, la mortalidad, la suerte y los múltiples pliegos de la realidad son tan ricas y absorbentes como sus novelas. El autor escribe 'para sentir la emoción de dejar atrás la rutina', y en Si te gusta la oscuridad los lectores sentirán, una y otra vez, esa misma emoción. 'Dos cabrones con talento' nos revelará el secreto de cómo estos dos caballeros adquirieron sus habilidades. En 'El mal sueño de Danny Coughlin', una explosión psíquica inesperada pone patas arriba la vida de docenas de personas, incluido Danny, con catastróficos resultados. 'Serpientes de cascabel', secuela de la novela Cujo, nos presenta a un viudo que viaja a Florida buscando descanso y, en su lugar, se topa con una inesperada herencia... con más de una atadura. En 'Los soñadores', un taciturno veterano de la guerra de Vietnam",
         "popular": "si"
     }
 ]
