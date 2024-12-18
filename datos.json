@@ -285,5 +285,32 @@
         "genero": "romance",
         "sinopsis": "¿Y si tuvieras la oportunidad de cambiar lo que ya has vivido? Elísabet Benavent, la autora de Un cuento perfecto y de la «Saga Valeria», regresa con su novela más diferente y original: un romance fragmentado con el tiempo como aliado y el amor como hoja de ruta. Miranda trabaja como subdirectora en una revista de moda. Miranda es feliz junto a Tristán. Por eso no entiende que la esté dejando. Ojalá pudiera dar marcha atrás y volver al momento en que se conocieron... Pero ¿y si realmente tuviera la oportunidad de cambiar su historia?",
         "popular": "si"
+    },
+
+    {
+        "portada": "https://imagessl8.casadellibro.com/a/l/s7/78/9788401033278.webp",
+        "titulo": "Purasangre",
+        "autor": "Noelia Lorenzo Pino",
+        "genero": "misterio",
+        "sinopsis": "Un mensaje misterioso enviado a la Ertzaintza y una desaparición repentina en la ciudad fronteriza de Irún reúnen a la oficial Lur de las Heras y a la agente Maddi Blasco en un enigmático e inquietante caso. La desaparecida es Sua, una chica del entorno cercano de Lur, pero a la que hace años que no ve. A traves de la reconstrucción de los días previos a su desaparición, Lur y Maddi se ven envueltas en el mundo oculto de la joven, una telaraña de relaciones tóxicas, miedo, depresión y adicciones. Las dos mujeres no solo deberán descubrir que ha pasado con Sua, sino tratar de que este descenso al lado más oscuro del ser humano no afecte a sus vidas personales.",
+        "popular": "si"
+    },
+
+    {
+        "portada": "https://imagessl7.casadellibro.com/a/l/s7/07/9788419688507.webp",
+        "titulo": "Reckless",
+        "autor": "Lauren Roberts",
+        "genero": "fantasia",
+        "sinopsis": "Él es el refugio que ella siempre había deseado. Ella es el enemigo que él tiene que vencer. Tras sobrevivir a las Pruebas de la Purga, Paedyn Gray, nacida sin poderes, mató al rey e inició una resistencia en todo el país. Ahora está huyendo de la persona hacia la que querría correr. Kai Azer es actualmente el defensor de Ilya y debe permanecer leal a su hermano Kitt, el nuevo rey. Ha prometido encontrar a Paedyn y llevarla ante la justicia. A través de peligros mortales, Kai persigue a la única persona que desearía proteger. Pero en una ciudad sin élites, el equilibrio entre el cazador y la presa cambia, y la batalla entre el deber y el deseo es mortal.",
+        "popular": "si"
+    },
+
+    {
+        "portada": "https://imagessl2.casadellibro.com/a/l/s7/42/9788491091042.webp",
+        "titulo": "La chica olvidada",
+        "autor": "Noelia Lorenzo Pino",
+        "genero": "misterio",
+        "sinopsis": "La agente Eider Chassereau y el suboficial Jon Ander Macua investigan, tras la aparición de su cadáver, el asesinato de la joven Lorea Gálvez. La similitud del caso con un crimen, aún sin resolver, ocurrido catorce años antes en plenas fiestas de Hondarribia, hará que este cobre actualidad y se reabra gracias a los esfuerzos e insistencia de la patrullera Lía Yoldi, amiga íntima de la víctima y aún obsesionada con su muerte. La reapertura del caso desenterrará emociones soterradas en la agente al rememorar, con ayuda del diario de su amiga, sus últimos días de existencia.",
+        "popular": "si"
     }
 ]
